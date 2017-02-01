@@ -1,0 +1,20 @@
+{
+  "name": "hey-pane",
+  "main": "./lib/hey-pane",
+  "version": "0.1.0",
+  "description": "Enlarge the active pane, either with a shortcut or with a super handy follow mode. Inspired by Origami for Sublime Text.",
+  "keywords": [
+    "pane",
+    "focus",
+    "origami",
+    "zoom",
+    "autozoom"
+  ],
+  "repository": "https://github.com/atom/hey-pane",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}

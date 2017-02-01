@@ -1,0 +1,5 @@
+{
+  "atom-text-editor": {
+    "shift-cmd-k": "hey-pane:toggle-focus-of-active-pane"
+  }
+}

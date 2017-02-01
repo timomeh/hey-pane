@@ -10,7 +10,7 @@
     "zoom",
     "autozoom"
   ],
-  "repository": "https://github.com/atom/hey-pane",
+  "repository": "https://github.com/timomeh/hey-pane",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"

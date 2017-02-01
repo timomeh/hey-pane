@@ -30,17 +30,13 @@ Resize your panes, _Hey, Pane!_ will recover them.
 
 _Hey, Pane!_ can also follow your active pane and resize it, as soon as you change your Pane. Perfect for working with a small screen.
 
-![It follows your active pane](https://timomeh.github.io/hey-pane/three.gif?raw=true)
+![It follows your active pane](https://timomeh.github.io/hey-pane/four.gif?raw=true)
 
 You can also use Follow Mode and manually toggling Focus, to get an overview of all active panes. It's a bit like magic<sup>\*</sup>. 💫
 
 Really, it works with all crazy arrangements! Just look at this pane mess, no problem for _Hey, Pane!_
 
-![Works with all kind of arrangements](https://timomeh.github.io/hey-pane/four.gif?raw=true)
-
-See, even in follow mode you can manually toggle focus to get an overview of all your panes.
-
-![Look at this beautiful mess we can manage](https://timomeh.github.io/hey-pane/five.gif?raw=true)
+![Works with all kind of arrangements](https://timomeh.github.io/hey-pane/five.gif?raw=true)
 
 
 ## Commands

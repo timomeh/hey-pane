@@ -47,10 +47,10 @@ Really, it works with all crazy arrangements! Just look at this pane mess, no pr
 
 ## TODOs
 
-- [] Status Bar Indicator if Focus/Follow is active
-- [] Add configuration for size of focused pane
-- [] Darken minimized panes /w option
-- [] Write tests
+- [ ] Status Bar Indicator if Focus/Follow is active
+- [ ] Darken minimized panes /w option
+- [ ] Write tests
+- [x] Add configuration for size of focused pane
 
 
 <sup>\*</sup> No real magic involved

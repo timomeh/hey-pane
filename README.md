@@ -39,6 +39,11 @@ Really, it works with all crazy arrangements! Just look at this pane mess, no pr
 ![Works with all kind of arrangements](https://timomeh.github.io/hey-pane/five.gif?raw=true)
 
 
+## ⚠️ Incompatible with Nuclide
+
+Unfortunately this package does not work with [Nuclide](https://nuclide.io/). You can track progress on this issue in [#3](https://github.com/timomeh/hey-pane/issues/3).
+
+
 ## Commands
 
 - `hey-pane:toggle-focus-of-active-pane` zooms/unzooms the active Pane

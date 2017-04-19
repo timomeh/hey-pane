@@ -1,3 +1,6 @@
+## 0.3.1
+* Now compatible with Nuclide
+
 ## 0.3.0
 * Adapted the API improvements of the last weeks
 * Compatible with Atom 1.17

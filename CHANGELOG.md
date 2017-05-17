@@ -1,3 +1,8 @@
+## 1.0.0
+
+* Use API from Atom 1.17, therefore stopping support for 1.16
+* Switching to stable versioning
+
 ## 0.3.1
 * Now compatible with Nuclide
 

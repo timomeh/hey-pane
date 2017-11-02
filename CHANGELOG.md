@@ -1,3 +1,6 @@
+## 1.1.0
+* Adds a configurable delay for follow mode (See Issue #13)
+
 ## 1.0.0
 
 * Use API from Atom 1.17, therefore stopping support for 1.16

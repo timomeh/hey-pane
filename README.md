@@ -6,7 +6,7 @@ Enlarge the active pane, either with a shortcut or with a super handy follow mod
 
 ## Usage
 
-<kbd>cmd-shift-k</kbd> to toggle the focus on the active Pane.  
+Use <kbd>cmd-shift-k</kbd> / <kbd>ctrl-shift-k</kbd> to toggle the focus on the active Pane.  
 ... or override this shortcut with your own by using the command `hey-pane:toggle-focus-of-active-pane`.
 
 Enable/Disable Follow Mode via the Command Palette.  
@@ -44,14 +44,6 @@ Really, it works with all crazy arrangements! Just look at this pane mess, no pr
 
 - `hey-pane:toggle-focus-of-active-pane` zooms/unzooms the active Pane
 - `hey-pane:toggle-follow-mode` activates/deactivates Follow Mode
-
-
-## TODOs
-
-- [ ] Status Bar Indicator if Focus/Follow is active
-- [ ] Darken minimized panes /w option
-- [ ] Write tests
-- [x] Add configuration for size of focused pane
 
 
 <sup>\*</sup> No real magic involved

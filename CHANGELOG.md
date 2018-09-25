@@ -1,3 +1,6 @@
+## 1.1.1
+* Adds default keybindings for windows and linux
+
 ## 1.1.0
 * Adds a configurable delay for follow mode (See Issue #13)
 

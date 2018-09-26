@@ -6,7 +6,7 @@ Enlarge the active pane, either with a shortcut or with a super handy follow mod
 
 ## Usage
 
-Use <kbd>cmd-shift-k</kbd> / <kbd>ctrl-shift-k</kbd> to toggle the focus on the active Pane.  
+Use <kbd>cmd-shift-k</kbd> on macOS or <kbd>alt-shift-k</kbd> Windows/Linux to toggle the focus on the active Pane.  
 ... or override this shortcut with your own by using the command `hey-pane:toggle-focus-of-active-pane`.
 
 Enable/Disable Follow Mode via the Command Palette.  

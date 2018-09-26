@@ -3,6 +3,6 @@
     "shift-cmd-k": "hey-pane:toggle-focus-of-active-pane"
   },
   ".platform-win32 atom-text-editor, .platform-linux atom-text-editor": {
-    "shift-ctrl-k": "hey-pane:toggle-focus-of-active-pane"
+    "shift-alt-k": "hey-pane:toggle-focus-of-active-pane"
   }
 }

@@ -14,7 +14,7 @@ Enable/Disable Follow Mode via the Command Palette.
 
 ### Focus
 
-With _Hey, Pane!_ you can temporarily zoom/focus/enlarge (call it what you want) your active pane without losing sight of all other panes. The active pane get's really big, and all other panes will just peak around the corner. Perfect for focusing on your work or to make more space on a small screen.
+With _Hey, Pane!_ you can temporarily zoom/focus/enlarge (call it what you want) your active pane without losing sight of all other panes. The active pane gets really big, and all other panes will just peek around the corner. Perfect for focusing on your work or to make more space on a small screen.
 
 It works with all kinds of pane arrangements.
 

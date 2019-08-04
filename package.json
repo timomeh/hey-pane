@@ -1,7 +1,7 @@
 {
   "name": "hey-pane",
   "main": "./lib/hey-pane",
-  "version": "1.1.2",
+  "version": "1.2.0",
   "description": "Atom Plugin to enlarge the active pane, either with a shortcut or with a super handy follow mode. Inspired by Origami for Sublime Text.",
   "keywords": [
     "pane",

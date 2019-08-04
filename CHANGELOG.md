@@ -1,3 +1,7 @@
+## 1.2.0
+* Adds option to enable follow mode on startup
+* Adds option in which panes follow mode will engange
+
 ## 1.1.2
 * Changes default keybindings for windows and linux
 
